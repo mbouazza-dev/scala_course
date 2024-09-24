@@ -1,0 +1,16 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\jenes\Desktop\test\quickcheck\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	MOOCSettings.class
+[debug] 	CourseraId.class
+[debug] 	CourseraStudent$autoImport$.class
+[debug] 	StudentTasks$.class
+[debug] 	StudentTasks.class
+[debug] 	MOOCSettings$.class
+[debug] 	CourseraId$.class
+[debug] 	CourseraStudent.class
+[debug] 	StudentTasks$autoImport$.class
+[debug] 	CourseraStudent$.class
+[debug] 	MOOCSettings$autoImport$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\jenes\Desktop\test\quickcheck\project\target\scala-2.12\sbt-1.0\classes.bak
